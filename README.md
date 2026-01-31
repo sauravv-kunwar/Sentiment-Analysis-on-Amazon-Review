@@ -36,13 +36,7 @@ Example review text:
 - "The product quality is amazing!"
 - "Worst purchase ever, totally disappointed."
 - "It’s okay, not great but not bad."
+Dataset used: Amazon Reviews Dataset (Kaggle)
 
----
 
-## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/sentiment-analysis-project.git
-cd sentiment-analysis-project
 
