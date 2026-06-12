@@ -7,7 +7,6 @@ This project performs **Sentiment Analysis** on text data (especially **Amazon p
 The goal is to classify reviews into **Positive / Negative / Neutral** sentiment and compare the performance of both approaches.
 
 ---
-
 ## 🚀 Features
 - Sentiment analysis using **VADER**
 - Sentiment prediction using **HuggingFace Transformers (RoBERTa)**
